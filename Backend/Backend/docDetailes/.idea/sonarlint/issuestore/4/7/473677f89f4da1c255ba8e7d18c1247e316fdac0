@@ -1,0 +1,9 @@
+
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$58ba5375-88a4-46eb-a4b0-39524a7ddeac
+
+java:S4684-"@Replace this persistent entity with a simple POJO or DTO object.(÷ˆİõøÿÿÿÿJ$a1177e8c-9182-4f5b-8600-43d965e1f6e6
+
+java:S4684;"@Replace this persistent entity with a simple POJO or DTO object.(è†¹‹ûÿÿÿÿJ$7c7c89c3-b9be-40da-99af-9a65faa774d8
+’
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿJ$cdba355a-25ac-40bb-8adf-8796de17442e
